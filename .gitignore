@@ -1,0 +1,17 @@
+/bootstrap/compiled.php
+.vagrant
+vendor
+.idea
+/public/dreamfactory
+/workbench
+composer.phar
+_ide_helper.php
+.env
+phpunit.xml
+.DS_Store
+Thumbs.db
+/storage/cache/*
+/storage/framework/cache/*
+/bootstrap/cache/*
+.dfe.cluster.json
+Homestead.yaml
